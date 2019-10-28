@@ -8,7 +8,7 @@
 # Download base image ubuntu 14.04
 FROM ubuntu:trusty
 
-MAINTAINER  Ankush Goyal <ankush.goyal@prontoitlabs.com>
+MAINTAINER  kkgupta@statestreet.com
  
 # Prepare installation of Oracle Java 8
 ENV JAVA_VER 8
